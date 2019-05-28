@@ -1,0 +1,49 @@
+[{
+  "videogame": {
+    "slug": "league-of-legends",
+    "name": "LoL",
+    "id": 1,
+    "current_version": "9.7.2"
+  },
+  "url": "https://www.cga.cn/nest2019",
+  "slug": "league-of-legends-nest",
+  "series": [
+    {
+      "year": 2019,
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "league-of-legends-nest-2019",
+      "season": null,
+      "prizepool": null,
+      "name": null,
+      "modified_at": "2019-04-23T13:04:07Z",
+      "league_id": 4225,
+      "id": 1782,
+      "full_name": "2019",
+      "end_at": "2019-05-25T22:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-21T22:00:00Z"
+    },
+    {
+      "year": 2018,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "league-of-legends-nest-2018",
+      "season": null,
+      "prizepool": "CNY 670,000",
+      "name": null,
+      "modified_at": "2019-04-23T13:03:23Z",
+      "league_id": 4225,
+      "id": 1781,
+      "full_name": "2018",
+      "end_at": null,
+      "description": null,
+      "begin_at": null
+    }
+  ],
+  "name": "NEST",
+  "modified_at": "2019-04-25T06:12:20Z",
+  "live_supported": true,
+  "image_url": "https://cdn.pandascore.co/images/league/image/4225/NEST.png",
+  "id": 4225
+}]
